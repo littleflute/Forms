@@ -1,0 +1,38 @@
+Verification of Job References
+
+Name of Applicant:
+
+Description of Potential Job:
+
+Education References:
+
+High School Phone #: __________    Date Called: __________  Verified q 
+
+College Phone #: __________   Date Called: __________  Verified q 
+
+Employer References:
+
+1st Employer Phone #: __________   Date Called: __________  Verified q 
+Employment Dates___________   Position _____________
+Last Pay Rate _______________ Reason for Leaving ___________
+
+2nd Employer Phone #: __________   Date Called: __________  Verified q 
+Employment Dates___________   Position _____________
+Last Pay Rate _______________ Reason for Leaving ___________
+
+3rd Employer Phone #: __________   Date Called: __________  Verified q 
+Employment Dates___________   Position _____________
+Last Pay Rate _______________ Reason for Leaving ___________
+
+Personal References
+
+1st Personal Reference Phone #: __________   Date Called: _______ Verified q 
+
+2nd Personal Reference Phone #: _________    Date Called: _______ Verified q 
+
+3rd Personal Reference Phone #: __________   Date Called: _______ Verified q 
+
+
+Applicant cleared for hiring: q YES       q  NO
+
+Date ___________________   Signature ___________________________
