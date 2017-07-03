@@ -1,0 +1,96 @@
+Credit/Rental Application
+
+Name 
+Address 
+City 
+State                                Zip 
+Phone 
+Fax
+e-mail Address 
+
+CREDIT REFERENCES
+Creditor Name 
+Account Number 
+Phone 
+Address 
+City 
+State                                Zip 
+
+Creditor Name 
+Account Number 
+Phone 
+Address 
+City 
+State                                Zip 
+
+BANK REFERENCES
+Bank Name 
+Account Number 
+Phone
+Address 
+City 
+State                                Zip 
+
+Bank Name 
+Account Number 
+Phone 
+Address 
+City 
+State                                Zip 
+
+
+
+PERSONAL REFERENCES
+Name 
+Relationship 
+Phone 
+Address 
+City 
+State                                Zip 
+
+Name 
+Relationship 
+Phone 
+Address 
+City 
+State                                Zip 
+
+OTHER INFORMATION
+Have you ever filed for bankruptcy?
+Have you ever been convicted of a felony?
+Have you ever been evicted from or asked to leave a property you were renting?
+Have you ever intentionally refused to pay rent when due?
+How were you referred to us?
+Driver's License Number:                  State: 
+
+The Applicant accepts the above terms and states that all information contained in this application is
+true and correct. Applicant authorizes creditor to contact all references, inquire as to credit
+information, and receive any confidential information relevant to approving credit. 
+
+Dated:  _______________________________________
+
+_______________________________________
+Signature of Applicant
+
+_______________________________________
+Printed Name of Applicant
+
+
+
+
+FOR OFFICE USE ONLY
+References Contacted            Person Contacted              Remarks
+Creditor #1                                         
+Creditor #2                                         
+Bank #1                                             
+Bank #2                                             
+Personal #1                                         
+Personal #2                                         
+
+References Contacted by: 
+Date References Contacted: 
+
+Applicant Approved: 
+Approval by: 
+Date Approved: 
+
